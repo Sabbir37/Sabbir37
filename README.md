@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://sabbir-portfolio-qa.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/sabbir88/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sabbir.hossin.qa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -42,6 +43,6 @@
 
 ### 📫 Let's work together
 
-**Email:** [sabbir.hossin.qa@gmail.com](mailto:sabbir.hossin.qa@gmail.com) · **Portfolio:** [sabbir-portfolio-qa.vercel.app](https://sabbir-portfolio-qa.vercel.app/)
+**Email:** [sabbir.hossin.qa@gmail.com](mailto:sabbir.hossin.qa@gmail.com) · **Portfolio:** [sabbir-portfolio-qa.vercel.app](https://sabbir-portfolio-qa.vercel.app/) · **LinkedIn:** [in/sabbir88](https://www.linkedin.com/in/sabbir88/)
 
 <p align="center"><i>"I test the way I ride: one careful decision at a time." 🏍️</i></p>
