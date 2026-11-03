@@ -41,6 +41,9 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+> [!NOTE]
+> My professional QA work is on private company projects, so it isn't shown here. The public repositories on this profile are mostly from my university studies.
+
 ### 📫 Let's work together
 
 **Email:** [sabbir.hossin.qa@gmail.com](mailto:sabbir.hossin.qa@gmail.com) · **Portfolio:** [sabbir-portfolio-qa.vercel.app](https://sabbir-portfolio-qa.vercel.app/) · **LinkedIn:** [in/sabbir88](https://www.linkedin.com/in/sabbir88/)
